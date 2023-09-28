@@ -34,7 +34,7 @@ Start the server
 
 ## Feedback
 
-If you have any feedback, please reach out to us at ssoni6149@gmail.com
+If you have any feedback, please reach out to us at ssoni6149@gmail.com or mailto:tanmaypratapshahi@gmail.com
 
 ## Authors
 
